@@ -270,7 +270,7 @@ section{
     margin-bottom: 1rem;
 }
 .contact-container{
-    max-width: 30rem;
+    max-width: 90rem;
     border: 1px solid var(--color-dark-variant);
     padding: 24px;
     border-radius: 30px;
